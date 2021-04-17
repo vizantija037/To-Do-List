@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>MY TASKS LIST</title>
+</head>
+<body>
+    
+    <div class="container">
+        <h1>MY TASKS LIST</h1>
+        <input id="inputField" type="text" placeholder="Add new task"><button id="addToDo">+</button>
+        <div class="to-dos" id="toDoContainer"></div>
+        </div>
+      
+ 
+    <script src="script.js"></script>
+</body>
+</html>
